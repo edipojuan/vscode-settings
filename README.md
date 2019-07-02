@@ -1,10 +1,10 @@
 # Visual Studio Settings
 
-## :bowtie: Author
+## Author
 
 - **Édipo Juan** - _sobre_ - [edipojuan](http://edipojuan.com.br/)
 
-## :gear: Settings
+## Settings
 
 ---
 
@@ -40,6 +40,6 @@
 
 ---
 
-# :abc: fontFamily
+# fontFamily
 
 - [FiraCode-Retina](https://github.com/tonsky/FiraCode)

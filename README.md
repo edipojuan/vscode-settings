@@ -1,4 +1,4 @@
-# Visual Studio Settings (v1.0.0)
+# Visual Studio Settings
 
 ## :bowtie: Author
 

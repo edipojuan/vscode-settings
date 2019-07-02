@@ -15,7 +15,7 @@
   "workbench.colorTheme": "Dracula",
   "workbench.iconTheme": "material-icon-theme",
 
-  "editor.fontFamily": "FiraCode-Retina",
+  "editor.fontFamily": "Fira Code",
   "editor.fontLigatures": true,
   "editor.tabSize": 2,
   "editor.minimap.enabled": false,
@@ -31,9 +31,18 @@
 
   "terminal.integrated.fontSize": 14,
   "extensions.ignoreRecommendations": false,
-  "window.zoomLevel": 1,
+  "window.zoomLevel": 0,
 
-  "vsicons.projectDetection.disableDetect": true
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  // "terminal.integrated.shell.windows": "C:\\WINDOWS\\Sysnative\\bash.exe",
+  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "[json]": {
+    "editor.defaultFormatter": "HookyQR.beautify"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
 }
 
 ```

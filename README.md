@@ -49,7 +49,6 @@
   "window.zoomLevel": 0,
 
   "javascript.updateImportsOnFileMove.enabled": "always",
-  // "terminal.integrated.shell.windows": "C:\\WINDOWS\\Sysnative\\bash.exe",
   "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
   "typescript.updateImportsOnFileMove.enabled": "always",
   "[json]": {

@@ -66,3 +66,7 @@
 ## fontFamily
 
 - [FiraCode-Retina](https://github.com/tonsky/FiraCode)
+
+## Extensions
+
+- [Angular Extension Pack (Loiane Groner)](https://marketplace.visualstudio.com/items?itemName=loiane.angular-extension-pack)

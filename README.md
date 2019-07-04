@@ -63,6 +63,6 @@
 
 ---
 
-# fontFamily
+## fontFamily
 
 - [FiraCode-Retina](https://github.com/tonsky/FiraCode)

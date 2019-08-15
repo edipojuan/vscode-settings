@@ -56,7 +56,8 @@
   },
   "[typescript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
-  }
+  },
+  "http.proxyStrictSSL": false
 }
 
 ```

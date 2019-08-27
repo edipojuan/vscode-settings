@@ -1,9 +1,5 @@
 # Visual Studio Settings
 
-## Author
-
-- **Édipo Juan** - _sobre_ - [edipojuan](http://edipojuan.com.br/)
-
 ## Settings
 
 ---
@@ -76,3 +72,9 @@
 - [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
 - [JavaScript Snippet Pack](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-javascript-snippet-pack)
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+
+## Author
+
+| [<img src="https://avatars1.githubusercontent.com/u/9813896?v=4&s=115"><br><sub>@edipojuan</sub>](https://github.com/edipojuan) |
+| :---: |
+

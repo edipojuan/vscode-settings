@@ -1,4 +1,4 @@
-# Visual Studio Settings
+# Visual Studio Code - Settings
 
 ## Settings
 

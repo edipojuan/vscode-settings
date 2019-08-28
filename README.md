@@ -7,6 +7,8 @@
 ```
 
 {
+  // Workbench
+  // -------------------------------------------------------------------------
   "workbench.startupEditor": "newUntitledFile",
   "workbench.colorTheme": "Dracula",
   "workbench.iconTheme": "material-icon-theme",
@@ -14,7 +16,6 @@
     "list.activeSelectionForeground": "#C6FF00",
     "list.inactiveSelectionForeground": "#C6FF00",
     "list.highlightForeground": "#C6FF00",
-
     "activityBar.border": "#C6FF0050",
     "scrollbarSlider.activeBackground": "#C6FF0050",
     "editorSuggestWidget.highlightForeground": "#C6FF00",
@@ -24,28 +25,33 @@
     "tab.activeBorder": "#C6FF00",
     "notificationLink.foreground": "#C6FF00"
   },
-
+  // Editor
+  // -------------------------------------------------------------------------
   "editor.lineHeight": 0,
-  "editor.snippetSuggestions": "top",
   "editor.fontFamily": "Fira Code",
   "editor.fontLigatures": true,
   "editor.tabSize": 2,
   "editor.minimap.enabled": false,
-  "editor.rulers": [80, 120],
+  "editor.rulers": [
+    80,
+    120
+  ],
   "editor.renderLineHighlight": "gutter",
   "editor.formatOnSave": true,
   "tslint.autoFixOnSave": true,
-
+  // Prettier 
+  // -------------------------------------------------------------------------
   "prettier.singleQuote": true,
   "prettier.arrowParens": "always",
-  "prettier.eslintIntegration": true,
-
+  // Terminal 
+  // -------------------------------------------------------------------------
   "terminal.integrated.fontSize": 14,
+  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+  // Others
+  // -------------------------------------------------------------------------
   "extensions.ignoreRecommendations": false,
   "window.zoomLevel": 0,
-
   "javascript.updateImportsOnFileMove.enabled": "always",
-  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
   "typescript.updateImportsOnFileMove.enabled": "always",
   "[json]": {
     "editor.defaultFormatter": "HookyQR.beautify"

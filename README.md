@@ -7,8 +7,7 @@
 ```
 
 {
-  // Workbench
-  // -------------------------------------------------------------------------
+  //                                                                 Workbench
   "workbench.startupEditor": "newUntitledFile",
   "workbench.colorTheme": "Dracula",
   "workbench.iconTheme": "material-icon-theme",
@@ -25,8 +24,7 @@
     "tab.activeBorder": "#C6FF00",
     "notificationLink.foreground": "#C6FF00"
   },
-  // Editor
-  // -------------------------------------------------------------------------
+  //                                                                    Editor
   "editor.lineHeight": 0,
   "editor.fontFamily": "Fira Code",
   "editor.fontLigatures": true,
@@ -39,16 +37,13 @@
   "editor.renderLineHighlight": "gutter",
   "editor.formatOnSave": true,
   "tslint.autoFixOnSave": true,
-  // Prettier 
-  // -------------------------------------------------------------------------
+  //                                                                  Prettier
   "prettier.singleQuote": true,
   "prettier.arrowParens": "always",
-  // Terminal 
-  // -------------------------------------------------------------------------
+  //                                                                  Terminal
   "terminal.integrated.fontSize": 14,
   "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
-  // Others
-  // -------------------------------------------------------------------------
+  //                                                                    Others
   "extensions.ignoreRecommendations": false,
   "window.zoomLevel": 0,
   "javascript.updateImportsOnFileMove.enabled": "always",

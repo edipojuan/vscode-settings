@@ -64,6 +64,10 @@
 
 - [FiraCode-Retina](https://github.com/tonsky/FiraCode)
 
+## Icons
+
+- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+
 ## Extensions
 
 - [Angular Extension Pack (Loiane Groner)](https://marketplace.visualstudio.com/items?itemName=loiane.angular-extension-pack)

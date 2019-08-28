@@ -64,7 +64,7 @@
 
 - [FiraCode-Retina](https://github.com/tonsky/FiraCode)
 
-## Icons
+## iconTheme
 
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 

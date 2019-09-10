@@ -9,7 +9,7 @@
 {
   //                                                                 Workbench
   "workbench.startupEditor": "newUntitledFile",
-  "workbench.colorTheme": "Dracula",
+  "workbench.colorTheme": "Dracula Soft",
   "workbench.iconTheme": "material-icon-theme",
   "workbench.colorCustomizations": {
     "list.activeSelectionForeground": "#C6FF00",
@@ -25,8 +25,11 @@
     "notificationLink.foreground": "#C6FF00"
   },
   //                                                                    Editor
+  // "editor.snippetSuggestions": "top",
   "editor.lineHeight": 0,
-  "editor.fontFamily": "Fira Code",
+  // "editor.fontFamily": "FiraCode-Retina", // Mac
+  "editor.fontFamily": "Fira Code", // Windows
+  "editor.fontWeight": "300",
   "editor.fontLigatures": true,
   "editor.tabSize": 2,
   "editor.minimap.enabled": false,
@@ -35,12 +38,14 @@
     120
   ],
   "editor.renderLineHighlight": "gutter",
+  "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
   "tslint.autoFixOnSave": true,
   //                                                                  Prettier
   "prettier.singleQuote": true,
   "prettier.arrowParens": "always",
   //                                                                  Terminal
+  // "terminal.integrated.shell.windows": "C:\\WINDOWS\\Sysnative\\bash.exe",
   "terminal.integrated.fontSize": 14,
   "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
   //                                                                    Others
@@ -54,7 +59,12 @@
   "[typescript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "http.proxyStrictSSL": false
+  "http.proxyStrictSSL": false,
+  "sync.gist": "2a0f04f704f67ad6575a7d14a78c5b57",
+  "files.exclude": {
+    "**/node_modules": true
+  },
+  "sync.forceUpload": true
 }
 
 ```
@@ -82,5 +92,5 @@
 ## Author
 
 | [<img src="https://avatars1.githubusercontent.com/u/9813896?v=4&s=115"><br><sub>@edipojuan</sub>](https://github.com/edipojuan) |
-| :---: |
+| :-----------------------------------------------------------------------------------------------------------------------------: |
 

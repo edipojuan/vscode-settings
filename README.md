@@ -81,6 +81,7 @@
 
 ## Extensions
 
+- [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
 - [Angular Extension Pack (Loiane Groner)](https://marketplace.visualstudio.com/items?itemName=loiane.angular-extension-pack)
 - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 - [Rainbow Brackets](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets)

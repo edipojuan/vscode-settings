@@ -77,6 +77,7 @@
 - [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
 - [JavaScript Snippet Pack](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-javascript-snippet-pack)
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+- [change-case](https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case)
 
 ## Author
 

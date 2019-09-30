@@ -38,7 +38,7 @@
     120
   ],
   "editor.renderLineHighlight": "gutter",
-  "editor.formatOnPaste": true,
+  //"editor.formatOnPaste": true,
   "editor.formatOnSave": true,
   "tslint.autoFixOnSave": true,
   //                                                                  Prettier

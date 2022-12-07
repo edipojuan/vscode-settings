@@ -27,8 +27,8 @@
   //                                                                    Editor
   // "editor.snippetSuggestions": "top",
   "editor.lineHeight": 0,
-  // "editor.fontFamily": "FiraCode-Retina", // Mac
-  "editor.fontFamily": "Fira Code", // Windows
+  // "editor.fontFamily": "FiraCode-Retina", // Mac OS
+  "editor.fontFamily": "Fira Code", // Windows OS
   "editor.fontWeight": "300",
   "editor.fontLigatures": true,
   "editor.tabSize": 2,
@@ -47,7 +47,7 @@
   //                                                                  Terminal
   // "terminal.integrated.shell.windows": "C:\\WINDOWS\\Sysnative\\bash.exe",
   "terminal.integrated.fontSize": 14,
-  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",  // Windows OS
   //                                                                    Others
   "extensions.ignoreRecommendations": false,
   "window.zoomLevel": 0,

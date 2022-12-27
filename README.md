@@ -31,7 +31,7 @@
   "editor.fontFamily": "Fira Code", // Windows OS
   "editor.fontLigatures": true,
   "editor.fontWeight": "300",
-  "editor.tabSize": 2,
+  "editor.tabSize": 4,
   "editor.minimap.enabled": false,
   "editor.rulers": [
     80,

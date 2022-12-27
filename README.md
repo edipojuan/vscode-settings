@@ -9,7 +9,7 @@
 {
   //                                                                 Workbench
   "workbench.startupEditor": "newUntitledFile",
-  "workbench.colorTheme": "Dracula Soft",
+  "workbench.colorTheme": "oh-lucy",
   "workbench.iconTheme": "material-icon-theme",
   "workbench.colorCustomizations": {
     "list.activeSelectionForeground": "#C6FF00",
@@ -29,8 +29,8 @@
   "editor.lineHeight": 0,
   // "editor.fontFamily": "FiraCode-Retina", // Mac OS
   "editor.fontFamily": "Fira Code", // Windows OS
-  "editor.fontWeight": "300",
   "editor.fontLigatures": true,
+  "editor.fontWeight": "300",
   "editor.tabSize": 2,
   "editor.minimap.enabled": false,
   "editor.rulers": [
@@ -53,9 +53,6 @@
   "window.zoomLevel": 0,
   "javascript.updateImportsOnFileMove.enabled": "always",
   "typescript.updateImportsOnFileMove.enabled": "always",
-  "[json]": {
-    "editor.defaultFormatter": "HookyQR.beautify"
-  },
   "[typescript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
